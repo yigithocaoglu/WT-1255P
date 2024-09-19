@@ -1,0 +1,68 @@
+#mainNav {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  font-weight: 600;
+  background-color: rgb(44, 62, 80) !important;
+  height: 104px;
+}
+
+.navbar-brand {
+  font-size: 1.8rem;
+}
+
+#Port {
+  color: #fff;
+}
+
+#About {
+  color: #fff;
+}
+
+#masthead {
+  background-color: #1bbc9b;
+}
+
+#icon {
+  width: 15rem;
+  padding-top: 12rem;
+  padding-bottom: 2rem;
+}
+
+#header {
+  background-color: #1bbc9b;
+  text-align: center;
+  font-size: 64px;
+}
+
+#jobs {
+  background-color: #1bbc9b;
+  text-align: center;
+  margin-top: 0;
+  font-size: 24px;
+  padding-bottom: 7rem;
+}
+
+#Portfolio {
+  font-size: 48px;
+  padding-top: 5rem;
+  line-height: 40px;
+  color: rgb(44, 62, 80) !important;
+}
+
+#col {
+    padding-bottom: 4rem;
+}
+
+#about {
+    background-color: #1bbc9b !important;
+}
+
+#habout {
+    padding-top: 6rem;
+    font-size: 48px;
+    line-height: 40px;
+}
+
+#row2 {
+    
+}

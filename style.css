@@ -1,0 +1,125 @@
+* {
+  box-sizing: border-box;
+}
+
+#mainNav {
+  background-color: rgb(44, 62, 80);
+  height: 6rem;
+  padding: 1.5rem 0 1.5rem 0;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+#mainNav .navbar-brand {
+  font-size: 1.75rem;
+  color: white;
+}
+
+#mainNav .navbar-nav {
+  margin-top: 0;
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+.masthead {
+  background-color: rgb(26, 188, 156);
+  color: white;
+  text-align: center;
+  height: 76vh;
+  padding: 6rem;
+}
+
+.masthead-avatar {
+  width: 15rem;
+  margin: 3rem 0 3rem 0;
+}
+
+.masthead-heading {
+  text-transform: uppercase;
+  font-size: 4rem;
+  line-height: 3.5rem;
+  margin-bottom: 2rem;
+}
+
+.masthead-subheading {
+  font-size: 1.5rem;
+}
+
+#portfolio {
+  height: 97vh;
+  padding: 6rem 0;
+}
+
+.page-section-heading {
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 3rem;
+  font-size: 3rem;
+  line-height: 2.5rem;
+  font-weight: 600;
+}
+
+.portfolio .portfolio-item {
+  position: relative;
+  max-width: 25rem;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+#about {
+  height: 58vh;
+  background-color: rgb(26, 188, 156);
+  color: white;
+  margin-bottom: 0;
+  padding: 6rem 0;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 450;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.btn-xl {
+  padding: 1rem 1.75rem;
+  font-size: 1.25rem;
+}
+
+.footer {
+  height: 30vh;
+  text-align: center;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #2c3e50;
+  color: white;
+}
+
+h4 {
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+.footer .lead {
+    margin-bottom: 0;
+}
+
+.lead a {
+    color: rgb(26, 188, 156);
+}
+
+.copyright {
+    height: 8vh;
+    background-color: rgb(26, 37, 47);
+    color: white;
+    text-align: center;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
